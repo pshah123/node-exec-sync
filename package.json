@@ -12,7 +12,6 @@
     "author": "Jeremy Faivre <contact@jeremyfa.com>",
     "main": "./bin/index.js",
     "dependencies": {
-        "ffi": "=1.2.5"
     },
     "devDependencies": {
         "coffee-script": ">=1.2.0",
